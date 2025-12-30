@@ -1,15 +1,15 @@
 
 # Customer Churn Prediction Using ML Pipeline
 
-📌 Objective
+##📌 Objective
 
 Develop a production-ready machine learning pipeline to predict customer churn using classical ML techniques.
 
-📂 Dataset
+##📂 Dataset
 
 Telco Customer Churn Dataset
 
-⚙️ Methodology
+##⚙️ Methodology
 
 Data preprocessing using Scikit-learn Pipeline
 
@@ -27,7 +27,7 @@ Hyperparameter tuning using GridSearchCV
 
 Exported the full pipeline using joblib
 
-🛠️ Tools & Libraries
+##🛠️ Tools & Libraries
 
 Scikit-learn
 
@@ -37,13 +37,13 @@ Imbalanced-learn (SMOTE)
 
 Joblib
 
-📊 Evaluation Metrics
+##📊 Evaluation Metrics
 
 Accuracy
 
 F1-score
 
-🎯 Skills Demonstrated
+##🎯 Skills Demonstrated
 
 End-to-end ML pipelines
 
