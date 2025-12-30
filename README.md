@@ -1,54 +1,48 @@
 
-# Customer Churn Prediction Using ML Pipeline
 
-##📌 Objective
+#  Customer Churn Prediction Using ML Pipeline
 
-Develop a production-ready machine learning pipeline to predict customer churn using classical ML techniques.
+### 📌 Objective
 
-##📂 Dataset
+Develop a **production-ready machine learning pipeline** to predict customer churn using classical ML techniques.
 
-Telco Customer Churn Dataset
+### 📂 Dataset
 
-##⚙️ Methodology
+* **Telco Customer Churn Dataset**
 
-Data preprocessing using Scikit-learn Pipeline
+### ⚙️ Methodology
 
-Feature scaling and categorical encoding using ColumnTransformer
+* Data preprocessing using **Scikit-learn Pipeline**
+* Feature scaling and categorical encoding using `ColumnTransformer`
+* Handled class imbalance using **SMOTE**
+* Trained and tuned:
 
-Handled class imbalance using SMOTE
+  * Logistic Regression
+  * Random Forest
+* Hyperparameter tuning using **GridSearchCV**
+* Exported the full pipeline using **joblib**
 
-Trained and tuned:
+### 🛠️ Tools & Libraries
 
-Logistic Regression
+* Scikit-learn
+* Pandas, NumPy
+* Imbalanced-learn (SMOTE)
+* Joblib
 
-Random Forest
+### 📊 Evaluation Metrics
 
-Hyperparameter tuning using GridSearchCV
+* Accuracy
+* F1-score
 
-Exported the full pipeline using joblib
+### 🎯 Skills Demonstrated
 
-##🛠️ Tools & Libraries
+* End-to-end ML pipelines
+* Hyperparameter tuning
+* Class imbalance handling
+* Production-ready model export
 
-Scikit-learn
 
-Pandas, NumPy
 
-Imbalanced-learn (SMOTE)
 
-Joblib
 
-##📊 Evaluation Metrics
-
-Accuracy
-
-F1-score
-
-##🎯 Skills Demonstrated
-
-End-to-end ML pipelines
-
-Hyperparameter tuning
-
-Class imbalance handling
-
-Production-ready model export
+Just tell me 👍
